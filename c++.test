@@ -1,0 +1,10 @@
+------>C++ Topic for HFT
+1.Object oriented programming
+2.Multithreading and multiprocessing
+3.N/W(node) programming (TCP,UDP,LBM)
+4.cretical section, deadlock,mutex,CV
+5.Reader-writer,producer consumer problems and their variations
+6.advance concepts(callback,cast,bitmasking,lamda,move,samrt pointer)
+
+7.low-level system desgin(factory desgin pattern,singleton desgin pattern)
+8.Boost, Async library, future &promice, launch policies for concurrent programming
