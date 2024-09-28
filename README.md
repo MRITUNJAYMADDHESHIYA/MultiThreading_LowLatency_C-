@@ -1,0 +1,1 @@
+A multithreaded framework designed for low-latency algorithmic trading. By utilizing multithreading techniques, this framework aims to optimize trade execution speed, data processing, and market data handling, providing a competitive edge in high-frequency trading environments.
